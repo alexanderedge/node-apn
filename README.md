@@ -106,6 +106,10 @@ Please include as much detail as possible - especially debug logs, if the proble
 * [Apple Technical Note: Troubleshooting Push Notifications][tn2265]
 * [List of Projects, Applications and Companies Using Node-apn][pacapn]
 
+## Code of Conduct
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
 ## Credits
 
 Written and maintained by [Andrew Naylor][andrewnaylor].
